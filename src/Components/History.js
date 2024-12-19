@@ -22,7 +22,7 @@ const history = () => {
 
 
 {/* History Section */}
-<h2 className="text-4xl font-bold mb-6 font-amaranth text-black">History</h2>
+<h2 className="text-4xl font-bold mb-6 font-Parkinsans text-black">History</h2>
 
 <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-40">
   {historyQuizzes.map((quiz) => {
@@ -92,7 +92,7 @@ const history = () => {
 
 
 {/* Science Section */}
-<h2 className="text-4xl font-bold mb-6 font-amaranth text-black">Science</h2>
+<h2 className="text-4xl font-bold mb-6 font-Parkinsans text-black">Science</h2>
 
 <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
   {scienceQuizzes.map((quiz) => {

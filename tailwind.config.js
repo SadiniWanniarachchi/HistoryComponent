@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        amaranth: ['Amaranth', 'sans-serif'], // Add Amaranth to Tailwind's fontFamily
+        parkinsons: ['Parkinsans', 'serif'], // Add Amaranth to Tailwind's fontFamily
       },
     },
   },
